@@ -60,10 +60,10 @@
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=taufiqurrohman132&show_icons=true&theme=dark&bg_color=000000&title_color=00ffff&icon_color=ffd700&text_color=ffffff" />
+      <img src="https://github-readme-stats.vercel.app/api?username=taufiqurrohman132&show_icons=true&theme=dark&bg_color=000000&title_color=00FF00&icon_color=ffd700&text_color=ffffff" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taufiqurrohman132&layout=compact&theme=dark&bg_color=000000&title_color=00ffff&text_color=ffffff" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taufiqurrohman132&layout=compact&theme=dark&bg_color=000000&title_color=00FF00&text_color=ffffff" />
     </td>
   </tr>
 </table>
