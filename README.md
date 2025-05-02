@@ -2,16 +2,16 @@
 <div style="background-color:#000000; padding:20px; color:#ffffff; font-family:Arial;">
 
  <!-- Profil banner dengan tinggi lebih kecil -->
-<img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"
+<img src="https://github.com/taufiqurrohman132/taufiqurrohman132/blob/main/github-header-image%20(10).png"
      width="100%" height="200px" style="object-fit: cover; margin-top: 20px;" />
      
 <!-- Teks di Tengah Halaman Secara Horizontal dan Vertikal -->
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh; text-align: center;">
+<!--<div style="display: flex; justify-content: center; align-items: center; height: 100vh; text-align: center;">
   <div>
     <h1 style="margin-bottom: 0;">👋 Hi, I'm <span style="color:#00FFFF;">Taufiqur Rohman</span></h1>
     <h3 style="color:#FFD700; margin-top: 5px;">A passionate Android developer from Indonesia 🇮🇩</h3>
   </div>
-</div>
+</div>-->
 
 
 
