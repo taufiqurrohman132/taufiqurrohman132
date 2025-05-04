@@ -2,7 +2,7 @@
 <div style="background-color:#000000; padding:20px; color:#ffffff; font-family:Arial;">
 
  <!-- Profil banner dengan tinggi lebih kecil -->
-<img src="https://github.com/taufiqurrohman132/taufiqurrohman132/blob/main/github-header-image%20(10).png"
+<img src="https://github.com/taufiqurrohman132/taufiqurrohman132/blob/main/github-header-image.png"
      width="100%" height="200px" style="object-fit: cover; margin-top: 20px;" />
      
 <!-- Teks di Tengah Halaman Secara Horizontal dan Vertikal -->
